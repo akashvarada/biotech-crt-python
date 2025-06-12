@@ -1,0 +1,10 @@
+Size=int(input("Enter the range of the list : "))
+Num=[]
+Sum=0
+for i in range(Size):
+    value=int(input("Enter the value at{i} Index :"))
+    Num.append(value)
+print(f"Original_List :{Num}")
+for i in range(Size):
+    Sum+=Num[i]
+print(Sum)

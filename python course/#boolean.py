@@ -1,0 +1,13 @@
+#bool
+print(bool(None))
+print(bool({}))
+print(bool(False))
+print(bool(()))
+print(bool(0))
+print(bool(''))
+print(bool(0.0))
+print(bool(range(0)))
+print(bool([]))
+print(bool(set()))
+print(bool(True*True))
+print(bool(True*False))

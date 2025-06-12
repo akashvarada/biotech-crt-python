@@ -1,0 +1,5 @@
+x=(input(" Enter the value of x :"))
+y=(input(" Enter the value of y :"))
+x,y=y+"jack",x+"rose"
+print("After Swapping x :",x)
+print("After Swapping y :",y)
