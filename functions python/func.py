@@ -1,0 +1,13 @@
+def Display():
+    print('Programming languages: ')
+    print('Bio-python ')
+    print('Java ')
+    print('SQL ')
+    print('c')
+    print('c++ ')
+Display()
+Display()
+Display()
+Display()
+Display()
+Display()
